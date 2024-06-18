@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jfreund01
-- 👀 I’m interested in Aerospace Engineering and Renewable energy sources
-- 🌱 I’m currently learning Python Webscraping and analysis tools (selenium, beautifulsoup, etc.)
+- 👋 Hi, I’m Jacob
+- 👀 I’m interested in Aerospace Engineering, Software Engineering, and Data Compression
+- 🌱 I’m currently learning Django REST Framework, React.js, file compression types
 - 📫 How to reach me: jacobfreund01@gmail.com
 
 <!---
