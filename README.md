@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jacob
-- 👀 I’m interested in Aerospace Engineering, Software Engineering, and Data Compression
+- 👀 I’m interested in Software Engineering, Simulation Engineering, and Data Compression
 - 🌱 I’m currently learning Django REST Framework, React.js, file compression types
 - 📫 How to reach me: jacobfreund01@gmail.com
 
