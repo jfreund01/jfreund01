@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jacob
 - 👀 I’m interested in Software Engineering, Simulation Engineering, and Data Compression
-- 🌱 I’m currently learning Django REST Framework, React.js, file compression types
+- 🌱 I’m currently learning fastAPI REST frameworks, WebSockets, React, Go
 - 📫 How to reach me: jacobfreund01@gmail.com
 
 <!---
